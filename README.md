@@ -17,13 +17,13 @@ The trained model is integrated with a **FastAPI backend** and a **Streamlit fro
 The system is intended as a **Machine Learning-based prediction and educational support tool**, not as a replacement for professional medical diagnosis.
 
 
-# Dataset Description
+# 📊 Dataset Description
 
 The project uses the `heart.csv` dataset.
 
 The dataset contains **1,025 records and 14 columns**. The 13 feature columns are used as input variables and `target` is used as the output variable.
 
-## Dataset Features
+## 🔍 Dataset Features
 
 | Feature | Description | Type |
 |---|---|---|
@@ -44,7 +44,7 @@ The dataset contains **1,025 records and 14 columns**. The 13 feature columns ar
 
 The categorical features in the supplied dataset are already encoded numerically, so an additional categorical encoding step is not required.
 
-## Target Variable
+## 🎯 Target Variable
 
 The `target` column represents the prediction class:
 
