@@ -1,4 +1,4 @@
-# ml-med-buddy
+# ❤️‍🩹 MedBuddy.ML – Heart Disease Prediction
 
 MedBuddy.ML is a Machine Learning based web application designed to predict the risk of heart disease from a patient's clinical information.
 
