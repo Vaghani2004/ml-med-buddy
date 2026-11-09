@@ -2,7 +2,7 @@
 
 MedBuddy.ML is a Machine Learning based web application designed to predict the risk of heart disease from a patient's clinical information.
 
-# Problem Statement
+# 🎯 Problem Statement
 
 Heart disease is one of the major health problems that requires timely identification and proper medical evaluation. Identifying the possibility of heart disease from multiple patient health parameters can be difficult and time-consuming when performed manually.
 
