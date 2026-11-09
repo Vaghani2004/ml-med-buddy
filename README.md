@@ -113,7 +113,7 @@ ml-med-buddy/
 Open PowerShell or Command Prompt and run:
 
 ```bash
-git clone https://github.com/Vaghnai123/ml-med-buddy.git
+[git clone https://github.com/Vaghnai123/ml-med-buddy.git](https://github.com/Vaghani2004/ml-med-buddy.git)
 ```
 
 Move into the project directory:
